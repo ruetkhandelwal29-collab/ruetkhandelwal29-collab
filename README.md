@@ -1,216 +1,265 @@
-# 👋 Hey, I'm Ruet Khandelwal
+# 👋 Hey there! I'm **Ruet Khandelwal**
 
 <div align="center">
   
-  ![Profile Views](https://komarev.com/ghpvc/?username=ruetkhandelwal29-collab&color=0891b2&style=flat-square&label=Profile+Views)
-  [![GitHub Follow](https://img.shields.io/github/followers/ruetkhandelwal29-collab?style=social)](https://github.com/ruetkhandelwal29-collab)
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%7C+AI+Enthusiast;Building+Products+that+Matter;C%2B%2B+%7C+Python+%7C+JavaScript+%7C+React;Let's+ship+something+great+together!)
   
-  **Crafting intelligent software solutions | Full-Stack Developer | AI & Automation Enthusiast**
+</div>
+
+<div align="center">
   
-  *Building products that scale, learning systems that adapt, and experiences that matter.*
+  ![Profile Views](https://komarev.com/ghpvc/?username=ruetkhandelwal29-collab&color=00D4FF&style=flat-square&label=Profile+Views)
+  ![GitHub Followers](https://img.shields.io/github/followers/ruetkhandelwal29-collab?style=flat-square&color=00D4FF&label=Followers)
+  ![GitHub Stars](https://img.shields.io/github/stars/ruetkhandelwal29-collab?style=flat-square&color=00D4FF&label=Total+Stars)
   
 </div>
 
 ---
 
-## 🚀 About Me
+## 🎯 About Me
 
-I'm a **B.Tech student in Artificial Intelligence and Data Science** (graduating 2029) from **MBM University, Jodhpur**, passionate about building production-grade software that solves real problems. 
+I'm a **B.Tech student in Artificial Intelligence & Data Science** from **MBM University, Jodhpur** (graduating 2029), obsessed with building **scalable, intelligent software** that solves real problems.
 
-Currently developing cutting-edge projects in **full-stack development**, **backend systems**, and **AI-powered applications**. I thrive on learning new technologies, collaborating with talented people, and shipping products that users love.
+**Currently:** Shipping full-stack applications with React, Node.js, and Python 🚀  
+**Passionate About:** System design, API architecture, AI integration, and code quality  
+**Forever Learning:** Advanced data structures, cloud architecture, and distributed systems
 
-💡 **My Focus:** Full-Stack Development | API Design | Distributed Systems | AI Integration | Cloud Architecture
-
----
-
-## 🛠️ What I'm Currently Building
-
-### 1. **ToolForge** — AI Tool Marketplace  
-A unified platform where users discover, run, and compose AI-powered tools directly without leaving the platform.
-
-**Tech Stack:** React.js | Node.js | Express.js | REST APIs | Gemini API
-
-**Key Features:**
-- 🔍 Centralized AI tool discovery engine
-- ⚙️ Schema-driven tool configuration system
-- 🔗 Workflow composition for multi-step automation
-- 🛡️ Server-side API key management
-- 🚀 AI agents for autonomous task execution
-
-**Status:** MVP in development | [View Repository](https://github.com/ruetkhandelwal29-collab)
+> *"Code is poetry. Ship fast. Learn faster."*
 
 ---
 
-### 2. **MARVEL** — Campus Automation System  
-An integrated platform digitizing college operations across student, faculty, academic, and administrative services.
+## 🏗️ Featured Projects
 
-**Tech Stack:** Python | FastAPI | SQLite | REST APIs
+### 1️⃣ **[ToolForge](https://github.com/ruetkhandelwal29-collab/toolforge)** — AI Tool Marketplace Platform
+**Status:** 🔴 MVP in Development | **Stars:** ⭐⭐
 
-**Modules:**
-- 📍 Attendance & Academic Scheduling
-- 👥 Student Services Management  
-- 🏛️ Administrative Operations
-- 🔐 Authentication & Authorization
+A **unified AI platform** where users discover, run, and **compose AI tools** into reusable workflows.
 
-**Status:** Backend APIs complete | Frontend integration in progress
+| Aspect | Details |
+|--------|---------|
+| **Tech Stack** | React.js • Node.js • Express.js • Gemini API • REST APIs |
+| **Frontend** | React with modular components, state management |
+| **Backend** | Express.js with schema-driven architecture |
+| **Features** | 🔍 Tool discovery • ⚙️ Schema-based config • 🔗 Workflow composer • 🛡️ API key vault |
+| **Status** | MVP features complete, workflow layer in progress |
+
+**Key Achievements:**
+- ✅ Schema-driven tool model (no custom code needed for new tools)
+- ✅ Centralized execution engine with Gemini integration
+- ✅ RESTful APIs following best practices
+- ⏳ Workflow composition system (next phase)
 
 ---
 
-## 💻 Technical Skills
+### 2️⃣ **[MARVEL](https://github.com/ruetkhandelwal29-collab/campus_automation_system)** — Campus Automation System
+**Status:** 🟡 Backend Complete | **APIs:** 15+ endpoints
+
+An **integrated college operations platform** digitizing student, faculty, and administrative workflows.
+
+| Aspect | Details |
+|--------|---------|
+| **Tech Stack** | Python • FastAPI • SQLite • REST APIs |
+| **Architecture** | Microservices-ready FastAPI backend |
+| **Database** | SQLite with normalized schema |
+| **Modules** | 📍 Attendance • 🎓 Academic • 👥 Student Mgmt • 🏛️ Admin |
+| **Status** | All core APIs built, frontend integration ongoing |
+
+**Key Achievements:**
+- ✅ 15+ production-ready REST endpoints
+- ✅ Authentication & authorization layer (JWT)
+- ✅ Database schema for 5+ entities
+- ✅ Modular FastAPI app structure
+- ⏳ React frontend (in progress)
+
+---
+
+### 3️⃣ **[NarcScan](https://github.com/ruetkhandelwal29-collab/NarcScan)** — Coming Soon 🚀
+**Language:** TypeScript | **Status:** Incubation
+
+---
+
+## 💻 Tech Stack & Expertise
 
 <div align="center">
 
-### Languages
+### 🎯 Core Languages
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 
-### Frontend & UI
-![React.js](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+### 🎨 Frontend
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### Backend & APIs
+### ⚙️ Backend & APIs
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST%20APIs-4CAF50?style=for-the-badge&logoColor=white)
+![REST](https://img.shields.io/badge/REST%20APIs-4CAF50?style=for-the-badge&logoColor=white)
 
-### Databases
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+### 🗄️ Databases & Tools
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-
-### Tools & Platforms
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-### Core CS
+### 🧠 CS Fundamentals
 ![DSA](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-FF6B6B?style=for-the-badge)
 ![OOP](https://img.shields.io/badge/Object%20Oriented%20Programming-4A90E2?style=for-the-badge)
-![System Design](https://img.shields.io/badge/System%20Design-9B59B6?style=for-the-badge)
+![System%20Design](https://img.shields.io/badge/System%20Design-9B59B6?style=for-the-badge)
 
 </div>
 
 ---
 
-## 📊 GitHub Stats & Insights
+## 📊 GitHub Analytics & Stats
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ruetkhandelwal29-collab&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+### 🔥 GitHub Stats
+![Ruet's GitHub stats](https://github-readme-stats.vercel.app/api?username=ruetkhandelwal29-collab&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ruetkhandelwal29-collab&layout=compact&theme=tokyonight&hide_border=true)
+### 📈 Language Distribution
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruetkhandelwal29-collab&layout=compact&theme=tokyonight&hide_border=true&count_private=true)
 
+### 🔥 Contribution Streak
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ruetkhandelwal29-collab&theme=tokyonight&hide_border=true)
 
 </div>
 
 ---
 
-## 🎯 Current Goals & Learning Path
+## 🎖️ Competitive Programming & Achievements
 
-- 🔥 **Next 3 Months:** Ship ToolForge MVP with workflow composition
-- 📚 **Q1 2027:** Master system design patterns and distributed systems
-- 🏆 **2027:** Land a software engineering internship at a top-tier company
-- 🚀 **Long-term:** Build a SaaS product that reaches 10K+ users
-
----
-
-## 🏆 Achievements & Recognition
-
-- ⭐ **Competitive Programmer:** Practicing DSA on LeetCode
-  - Profile: [leetcode.com/u/ruet_29/](https://leetcode.com/u/ruet_29/)
-  
-- 🎓 **B.Tech in AI & Data Science** from MBM University (Expected 2029)
-
-- 💡 **Founder & Lead Developer** of ToolForge & MARVEL projects
-
-- 🤝 **Collaborator:** Open to contributing to impactful open-source projects
-
----
-
-## 📈 LeetCode Stats
+### 🏆 LeetCode
+- **Platform:** [leetcode.com/u/ruet_29/](https://leetcode.com/u/ruet_29/)
+- **Focus:** Data Structures & Algorithms in C++
+- **Category:** Actively practicing problem-solving
 
 [![LeetCode Stats](https://leetcode-stats-six.vercel.app/?username=ruet_29&theme=dark)](https://leetcode.com/u/ruet_29/)
 
 ---
 
-## 🔗 Connect With Me
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ruetkhandelwal29@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ruet-khandelwal-101353384)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ruetkhandelwal29-collab)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/ruet_29/)
-
-**Location:** 📍 Jodhpur, Rajasthan, India  
-**Phone:** 📱 +91-9352629020
-
-</div>
-
----
-
-## 🎨 Featured Projects
+## 🎯 Current Learning & Growth Path
 
 ```
 ┌─────────────────────────────────────────────────────────┐
-│ ToolForge: AI Tool Marketplace                          │
+│  🔥 SHORT TERM (Next 3 Months)                         │
 ├─────────────────────────────────────────────────────────┤
-│ React.js | Node.js | Express.js | Gemini API           │
-│ ⭐ Full-stack AI platform with workflow automation     │
-│ 🔗 [View Code](https://github.com/ruetkhandelwal29-collab) │
+│  • Finish ToolForge MVP (workflow composition)           │
+│  • Deploy MARVEL frontend with React                     │
+│  • Contribute to 2-3 open-source projects               │
+│  • Complete 100+ LeetCode problems                      │
 └─────────────────────────────────────────────────────────┘
 
 ┌─────────────────────────────────────────────────────────┐
-│ MARVEL: Campus Automation System                        │
+│  📚 MID TERM (Q1 2027)                                 │
 ├─────────────────────────────────────────────────────────┤
-│ Python | FastAPI | SQLite | REST APIs                  │
-│ ⭐ Integrated college operations platform               │
-│ 🔗 [View Code](https://github.com/ruetkhandelwal29-collab) │
+│  • Master System Design patterns (databases, caching)   │
+│  • Learn AWS/Cloud fundamentals                         │
+│  • Build 2+ production-grade full-stack apps            │
+│  • Explore AI/ML model integration                      │
+└─────────────────────────────────────────────────────────┘
+
+┌─────────────────────────────────────────────────────────┐
+│  🏆 LONG TERM (2027+)                                 │
+├─────────────────────────────────────────────────────────┤
+│  • Land internship at a top-tier tech company           │
+│  • Build & ship a SaaS product                          │
+│  • Contribute to high-impact open-source                │
+│  • Help junior developers grow                          │
 └─────────────────────────────────────────────────────────┘
 ```
 
 ---
 
-## 💬 Open To
-
-✅ **Software Engineering Internships** — Full-stack, Backend, AI integration roles  
-✅ **Open Source Contributions** — Especially Python, JavaScript, and React projects  
-✅ **Collaboration** — Building products, learning together, solving hard problems  
-✅ **Mentorship** — Always eager to learn from experienced engineers  
-
----
-
-## 📚 Currently Learning
-
-- 🏗️ **System Design Fundamentals** — Scalability, distributed systems, databases
-- 🤖 **AI/ML Integration** — LLMs, embeddings, RAG systems
-- ☁️ **Cloud Architecture** — AWS, Docker, Kubernetes basics
-- 📊 **Advanced Data Structures** — Graphs, advanced trees, optimization
-
----
-
-## 💭 Quote That Drives Me
-
-> *"The best way to predict the future is to build it."* — Peter Drucker
-
-> *"Every expert was once a beginner."* — Unknown
-
----
-
-## 📞 Let's Build Something Great Together!
-
-I'm always open to discussing new ideas, collaborating on projects, or just geeking out about technology. Whether it's about architecture, a tricky DSA problem, or the latest tech trends—reach out!
+## 🌟 What I'm Open To
 
 <div align="center">
 
-**If you found this interesting, please star ⭐ some of my repos!**
+| Category | Status |
+|----------|--------|
+| **💼 Internships** | ✅ Software Engineering (full-stack, backend, AI) |
+| **🔗 Collaboration** | ✅ Building products, open-source contributions |
+| **📚 Mentorship** | ✅ Learning from experienced engineers |
+| **💬 Discussion** | ✅ System design, architecture, DSA, tech trends |
 
-*Last Updated: October 2026*
+</div>
+
+---
+
+## 📞 Let's Connect!
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-ruetkhandelwal29%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ruetkhandelwal29@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ruet%20Khandelwal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ruet-khandelwal-101353384)
+[![GitHub](https://img.shields.io/badge/GitHub-ruetkhandelwal29--collab-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ruetkhandelwal29-collab)
+[![LeetCode](https://img.shields.io/badge/LeetCode-ruet_29-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/ruet_29/)
+
+</div>
+
+---
+
+## 🚀 Latest Activity
+
+<div align="center">
+
+<!-- This section updates automatically with your GitHub activity -->
+
+```
+📍 Location: Jodhpur, Rajasthan, India
+📱 Phone: +91-9352629020
+🎓 Education: B.Tech in AI & Data Science (2029)
+```
+
+</div>
+
+---
+
+## 💡 My Philosophy
+
+> *"I don't write code to fill lines. I build systems that work, scale, and matter."*
+
+- **Quality over quantity:** Readable, tested, maintainable code
+- **User-first design:** Products that solve real problems
+- **Continuous learning:** Technologies change—curiosity doesn't
+- **Open collaboration:** Growing together is faster than alone
+
+---
+
+## 📅 Recent Work
+
+### Projects & Contributions
+- **ToolForge:** Full-stack marketplace platform (React + Node.js)
+- **MARVEL:** Campus automation backend (FastAPI + SQLite)
+- **NarcScan:** Emerging project (TypeScript)
+- **DSA Practice:** Regular LeetCode challenges (C++)
+
+### Goals This Year
+- ✅ Ship 2 complete full-stack applications
+- ✅ Master REST API design
+- ✅ Solve 150+ DSA problems
+- ✅ Learn system design fundamentals
+- ✅ Land a competitive internship
+
+---
+
+## 🎁 Bonus: Quick Stats
+
+<div align="center">
+
+| Metric | Count |
+|--------|-------|
+| **GitHub Repos** | 4 Public |
+| **Projects Built** | 3 Major |
+| **Languages Known** | 4+ |
+| **Tech Stack Items** | 10+ |
+| **Learning Mindset** | 💯 |
 
 </div>
 
@@ -218,6 +267,16 @@ I'm always open to discussing new ideas, collaborating on projects, or just geek
 
 <div align="center">
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Let%27s%20Build%20Great%20Software!&fontSize=18&fontColor=ffffff)
+### 🌟 If you found this interesting, **follow** me and **star** my repos!
+
+<img src="https://media.giphy.com/media/hvRJCLFzcasrMEeyVB/giphy.gif" width="28">
+
+**Let's build something extraordinary together!**
+
+---
+
+*Last Updated: October 20, 2026*
+
+[![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Building%20the%20Future,%20One%20Line%20at%20a%20Time!&fontSize=18&fontColor=ffffff)](https://github.com/ruetkhandelwal29-collab)
 
 </div>
