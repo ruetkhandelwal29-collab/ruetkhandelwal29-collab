@@ -8,7 +8,6 @@
 
 <div align="center">
   
-  ![Profile Views](https://komarev.com/ghpvc/?username=ruetkhandelwal29-collab&color=00D4FF&style=flat-square&label=Profile+Views)
   ![GitHub Followers](https://img.shields.io/github/followers/ruetkhandelwal29-collab?style=flat-square&color=00D4FF&label=Followers)
   ![GitHub Stars](https://img.shields.io/github/stars/ruetkhandelwal29-collab?style=flat-square&color=00D4FF&label=Total+Stars)
   
